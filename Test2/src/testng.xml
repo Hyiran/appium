@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+	<test name="Test" junit="ture">
+		<classes>
+			<class name="AppiumTesta" />
+			<class name="AppiumTestb" />
+			<class name="AppiumTestc" />
+			<class name="AppiumTestd" />
+
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

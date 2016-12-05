@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="450527" started-at="2016-12-05T06:46:20Z" finished-at="2016-12-05T06:53:51Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="450527" started-at="2016-12-05T06:46:20Z" finished-at="2016-12-05T06:53:51Z">
+      <class name="NewTest">
+        <test-method status="PASS" signature="Setup()[pri:0, instance:NewTest@3c0ecd4b]" name="Setup" is-config="true" duration-ms="41299" started-at="2016-12-05T14:46:20Z" finished-at="2016-12-05T14:47:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="AppiumTesta()[pri:0, instance:NewTest@3c0ecd4b]" name="AppiumTesta" duration-ms="91384" started-at="2016-12-05T14:47:02Z" finished-at="2016-12-05T14:48:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AppiumTesta -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:NewTest@3c0ecd4b]" name="afterMethod" is-config="true" duration-ms="252" started-at="2016-12-05T14:48:33Z" finished-at="2016-12-05T14:48:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=AppiumTesta status=SUCCESS method=NewTest.AppiumTesta()[pri:0, instance:NewTest@3c0ecd4b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="AppiumTestb()[pri:0, instance:NewTest@3c0ecd4b]" name="AppiumTestb" duration-ms="62844" started-at="2016-12-05T14:48:33Z" finished-at="2016-12-05T14:49:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AppiumTestb -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:NewTest@3c0ecd4b]" name="afterMethod" is-config="true" duration-ms="52" started-at="2016-12-05T14:49:36Z" finished-at="2016-12-05T14:49:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=AppiumTestb status=SUCCESS method=NewTest.AppiumTestb()[pri:0, instance:NewTest@3c0ecd4b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="AppiumTestc()[pri:0, instance:NewTest@3c0ecd4b]" name="AppiumTestc" duration-ms="81658" started-at="2016-12-05T14:49:36Z" finished-at="2016-12-05T14:50:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AppiumTestc -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:NewTest@3c0ecd4b]" name="afterMethod" is-config="true" duration-ms="48" started-at="2016-12-05T14:50:58Z" finished-at="2016-12-05T14:50:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=AppiumTestc status=SUCCESS method=NewTest.AppiumTestc()[pri:0, instance:NewTest@3c0ecd4b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="AppiumTestd()[pri:0, instance:NewTest@3c0ecd4b]" name="AppiumTestd" duration-ms="81360" started-at="2016-12-05T14:50:58Z" finished-at="2016-12-05T14:52:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AppiumTestd -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:NewTest@3c0ecd4b]" name="afterMethod" is-config="true" duration-ms="37" started-at="2016-12-05T14:52:19Z" finished-at="2016-12-05T14:52:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=AppiumTestd status=SUCCESS method=NewTest.AppiumTestd()[pri:0, instance:NewTest@3c0ecd4b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="AppiumTeste()[pri:0, instance:NewTest@3c0ecd4b]" name="AppiumTeste" duration-ms="91516" started-at="2016-12-05T14:52:19Z" finished-at="2016-12-05T14:53:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AppiumTeste -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:NewTest@3c0ecd4b]" name="afterMethod" is-config="true" duration-ms="51" started-at="2016-12-05T14:53:51Z" finished-at="2016-12-05T14:53:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=AppiumTeste status=SUCCESS method=NewTest.AppiumTeste()[pri:0, instance:NewTest@3c0ecd4b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:NewTest@3c0ecd4b]" name="afterSuite" is-config="true" duration-ms="46" started-at="2016-12-05T14:53:52Z" finished-at="2016-12-05T14:53:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
